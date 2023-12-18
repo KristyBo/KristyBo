@@ -1,4 +1,4 @@
-# Привет коллеги, меня зовут Кристина!
+# Привет коллеги, меня зовут Кристина! <img src="https://w7.pngwing.com/pngs/260/315/png-transparent-my-neighbor-totoro-ghibli-museum-catbus-studio-ghibli-my-neighbor-totoro-animation-totoro-mammal-carnivoran-illustrator.png" height="25">
 
 
 ---
