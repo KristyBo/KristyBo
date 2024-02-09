@@ -5,7 +5,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Я тестировщик в начале своего пути)
+Я тестировщик в начале своего пути
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-violet?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kristinabo/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:kristinaboval@gmail.com)
 
